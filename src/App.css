@@ -1,0 +1,9 @@
+.banner-div{
+    box-sizing: border-box;
+    max-width: 100%;
+    background-image: url(../src/assets/hero_bg_pk.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    height: 250px;
+}
